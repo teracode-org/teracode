@@ -1,5 +1,5 @@
 import { ChakraProvider } from '@chakra-ui/react'
-import LessonPage from './pages/lesson';
+import LessonPage from './pages/Lesson';
 
 
 function App() {
